@@ -81,7 +81,7 @@ Sebelum menjalankan aplikasi ini secara lokal, pastikan Anda telah menginstal so
    ```bash
    php artisan serve
    ```
-   Aplikasi kini dapat diakses melalui browser Anda di alamat: [http://127.0.0.1:8000] [http://127.0.0.1:8000/login] [http://127.0.0.1:8000/dashboard] (http://127.0.0.1:8000)
+   Aplikasi kini dapat diakses melalui browser Anda di alamat: [http://127.0.0.1:8000]  [http://127.0.0.1:8000/dashboard] 
 
 ---
 
