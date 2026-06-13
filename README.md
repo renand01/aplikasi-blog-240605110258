@@ -87,4 +87,4 @@ Sebelum menjalankan aplikasi ini secara lokal, pastikan Anda telah menginstal so
 
 ## Demonstrasi Video YouTube
 Tonton video demonstrasi fitur lengkap (CMS & Halaman Pengunjung) melalui tautan berikut:
-- **Tautan Video**: [Tautan Video YouTube Anda di Sini]
+- **Tautan Video**: [https://youtu.be/KqAor7rBzB0?si=VREOh66wgDzJMlvH]
